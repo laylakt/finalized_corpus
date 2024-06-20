@@ -1,0 +1,25 @@
+phrase,code
+what is the current temperature of xiaomi thermometer ?,thermometer.readProperty('temperature');
+what is the temperature value in xiaomi thermometer right now ?,thermometer.readProperty('temperature');
+how warm is it based on xiaomi thermometer ?,thermometer.readProperty('temperature');
+how cold is it according to xiaomi thermometer ?,thermometer.readProperty('temperature');
+what is temperature value the xiaomi thermometer showing ?,thermometer.readProperty('temperature');
+check the temperature measurement in xiaomi thermometer .,thermometer.readProperty('temperature');
+check xiaomi thermometer temperature value .,thermometer.readProperty('temperature');
+show me the temperature value according to xiaomi thermometer .,thermometer.readProperty('temperature');
+show the temperature measurement based on xiaomi thermometer .,thermometer.readProperty('temperature');
+read the temperature measurement in xiaomi thermometer .,thermometer.readProperty('temperature');
+tell me the temperature measurement of xiaomi thermometer .,thermometer.readProperty('temperature');
+I want to know the temperature of xiaomi thermometer .,thermometer.readProperty('temperature');
+what is the current temperature of xiaomi thermometer ?,thermometer.readProperty('temperature');
+what is the temperature value in xiaomi thermometer right now ?,thermometer.readProperty('temperature');
+how warm is it based on xiaomi thermometer ?,thermometer.readProperty('temperature');
+how cold is it according to xiaomi thermometer ?,thermometer.readProperty('temperature');
+what is temperature value the xiaomi thermometer showing ?,thermometer.readProperty('temperature');
+check the temperature measurement in xiaomi thermometer .,thermometer.readProperty('temperature');
+check xiaomi thermometer temperature value .,thermometer.readProperty('temperature');
+show me the temperature value according to xiaomi thermometer .,thermometer.readProperty('temperature');
+show the temperature measurement based on xiaomi thermometer .,thermometer.readProperty('temperature');
+read the temperature measurement in xiaomi thermometer .,thermometer.readProperty('temperature');
+tell me the temperature measurement of xiaomi thermometer .,thermometer.readProperty('temperature');
+I want to know the temperature of xiaomi thermometer .,thermometer.readProperty('temperature');
